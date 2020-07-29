@@ -1,0 +1,77 @@
+body{
+  font-family: 'Mulish';
+}
+.heading{
+  font-family: 'Mulish'; 
+  color: black;
+  text-align:left;
+  margin-bottom: 5px;
+}
+.headingdiv{
+  background-color: rgba(198, 198, 185, 0.829); 
+  padding:10px;
+  margin-bottom: 30px;
+}
+.headingdiv1{
+  background-color: rgba(198, 198, 185, 0.829);
+  padding:10px;
+  margin-bottom: 30px;
+  border-top: 2px solid rgb(19, 57, 156);
+  border-bottom: 2px solid rgb(19, 57, 156);
+}
+.pixelaccent{
+  color: rgb(19, 57, 156)
+}
+.tedquote{
+  width:50%;
+  float: left;
+  margin-left: 25%;
+  text-align:center;
+  border: 2px solid grey;
+  margin-right: 25%;
+}
+.regtext{
+  margin:50px;
+  padding-top: 100px;
+  text-align:center;
+}
+.gridbox{
+  background-color:lightgrey;
+  border: 2px solid grey;
+  outline: 2px solid rgb(19, 57, 156);
+  width: 50%;
+  text-align:center;
+  margin-top: 40px;
+  margin-left: 25%;
+}
+.gridboxtext a:link, a:visited{
+  text-decoration:none;
+  color: rgb(19, 57, 156)
+}
+.gridboxhead{
+  text-align:center;
+  color:rgb(19, 57, 156);
+}
+.gridboximage{
+  margin-left:20%;
+  margin-right:20%;
+  display:block;
+}
+.ytbutton a:link, .ytbutton a:visited{
+  text-decoration:none;
+  border: 2px solid red;
+  background-color:red;
+  color:white;
+  padding: 10px;
+  overflow:
+}
+.ytbutton a:hover,.ytbutton a:active{
+  text-decoration:none;
+  color:red;
+  background-color: white;
+}
+.bottombar{
+  border-top: 2px solid black;
+  margin-top: 5%;
+  text-align:center;
+}
