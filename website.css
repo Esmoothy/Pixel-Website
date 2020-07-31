@@ -7,6 +7,25 @@ body{
   text-align:left;
   margin-bottom: 5px;
 }
+.topnav{
+  background-color: rgb(19, 57, 156);
+  overflow:hidden;
+}
+.topnav a{
+  color: white;
+  float: left;
+  padding: 14px 16px;
+  text-decoration:none;
+  text-align:center;
+  background-color:rgb(19, 57, 156);
+}
+.topnav a:hover{
+  background-color: rgba(198, 198, 185);
+  color:rgb(19, 57, 156);
+}
+.topnav a.active{
+  background-color:rgba(198, 198, 185, 0.829);
+}
 .headingdiv{
   background-color: rgba(198, 198, 185, 0.829); 
   padding:10px;
